@@ -1,0 +1,93 @@
+{
+    "greetings": [
+        "Hey there, {username}!",
+        "What's up, {username}!",
+        "Hello, {username}!",
+        "Yo {username}! Welcome to the stream!"
+    ],
+    "first_time_greetings": [
+        "Welcome, {username}! First time here? Great to meet you!",
+        "Hey {username}! Nice to see a new face in the chat!",
+        "What's up {username}! Welcome to DJ Qwazi905's stream!"
+    ],
+    "quick_return_greetings": [
+        "Back so soon, {username}? Can't get enough, huh?",
+        "There you are again, {username}! Missed us?",
+        "Welcome back, {username}! That was quick!"
+    ],
+    "same_day_greetings": [
+        "Welcome back, {username}! Glad you could join us again today!",
+        "Hey {username}! Thanks for coming back!",
+        "Look who's back for more! Hi {username}!"
+    ],
+    "week_greetings": [
+        "Hey {username}! Good to see you this week!",
+        "Welcome back, {username}! Been a few days!",
+        "{username} has returned! How's your week been?"
+    ],
+    "long_absence_greetings": [
+        "Whoa, {username} is back! It's been a while!",
+        "Look who it is! {username} has returned!",
+        "The legend returns! Welcome back, {username}!"
+    ],
+    "generic_responses": [
+        "That's interesting, {username}!",
+        "I hear you, {username}.",
+        "Nice one, {username}!",
+        "Totally agree with you, {username}!",
+        "Thanks for sharing that, {username}!"
+    ],
+    "question_responses": [
+        "Good question, {username}! Let me think...",
+        "Hmm, that's a tough one, {username}.",
+        "Let me see if I can help with that, {username}.",
+        "That's a great question, {username}!"
+    ],
+    "mention_responses": [
+        "You called, {username}?",
+        "I'm here, {username}!",
+        "What's up, {username}?",
+        "How can I help, {username}?"
+    ],
+    "gratitude_responses": [
+        "You're welcome!",
+        "Anytime!",
+        "Happy to help!",
+        "No problem at all!"
+    ],
+    "status_responses": [
+        "I'm doing great! Just vibing to these beats!",
+        "All systems operational and ready to party!",
+        "Feeling energetic and ready for the stream!",
+        "I'm fantastic! How could I not be with this music?"
+    ],
+    "conversation_starters": [
+        "Anyone excited for the weekend?",
+        "What's everyone listening to lately?",
+        "How's the chat doing today?",
+        "If you could only listen to one music genre forever, what would it be?",
+        "What's the best concert you've ever been to?",
+        "Anyone catch any good streams lately?",
+        "Hot take: pineapple DOES belong on pizza. Discuss.",
+        "What's your favorite track that DJ Qwazi905 plays?"
+    ],
+    "quiet_starters": [
+        "It's quiet in here... too quiet. Let's change that!",
+        "Perfect time for a chat! What's on everyone's mind?",
+        "While it's chill, what music should DJ Qwazi905 play next stream?",
+        "Let's get some energy in here! How's everyone doing?"
+    ],
+    "active_starters": [
+        "The chat is popping off! Let's keep the energy going!",
+        "Loving the vibes in chat today!",
+        "You all are on fire today! What's got everyone so energetic?",
+        "This is exactly the energy we need! What track is hitting right now?"
+    ],
+    "gaming_starters": [
+        "Who's ready for some chat games?",
+        "Let's play something together in chat!",
+        "I'm feeling lucky today. Anyone up for a game?",
+        "Time to test your luck with some StreamElements games!"
+    ],
+    "help_message": "I'm Mode_0, DJ Qwazi905's chat bot! Try commands like !help, !about, !socials, or just chat with me!"
+}

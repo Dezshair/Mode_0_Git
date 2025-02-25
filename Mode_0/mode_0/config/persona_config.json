@@ -1,0 +1,38 @@
+{
+    "base_personality": {
+        "friendly": 0.8,
+        "humor": 0.7,
+        "helpfulness": 0.9,
+        "edginess": 0.5
+    },
+    "learning_rate": 0.05,
+    "response_timing": {
+        "min_delay": 1,
+        "max_delay": 3
+    },
+    "engagement": {
+        "mention_response_rate": 1.0,
+        "direct_question_rate": 0.9,
+        "general_chat_rate": 0.3,
+        "idle_chat_interval": {
+            "min_minutes": 5,
+            "max_minutes": 15
+        }
+    },
+    "topics": {
+        "preferred": [
+            "music",
+            "dj",
+            "hard house",
+            "electronic",
+            "streaming",
+            "events"
+        ],
+        "engagement_boost": [
+            "qwazi905",
+            "hard house",
+            "dj",
+            "new release"
+        ]
+    }
+}

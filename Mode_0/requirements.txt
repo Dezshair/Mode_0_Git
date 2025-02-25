@@ -1,0 +1,15 @@
+# Core dependencies
+twitchio>=2.6.0
+aiohttp>=3.8.4
+sqlalchemy>=2.0.0
+apscheduler>=3.10.1
+
+# StreamElements integration
+websockets>=11.0.3
+
+# NLP/Persona
+spacy>=3.6.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorlog>=6.7.0

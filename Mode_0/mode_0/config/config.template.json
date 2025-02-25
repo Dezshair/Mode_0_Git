@@ -1,0 +1,23 @@
+{
+    "twitch": {
+        "oauth_token": "YOUR_OAUTH_TOKEN",
+        "channel": "YOUR_CHANNEL_NAME"
+    },
+    "streamelements": {
+        "jwt": "YOUR_STREAMELEMENTS_JWT",
+        "channel_id": "YOUR_STREAMELEMENTS_CHANNEL_ID"
+    },
+    "bot": {
+        "name": "Mode_0",
+        "command_prefix": "!",
+        "auto_engage": true,
+        "engagement_interval": 600,
+        "admin_users": ["YOUR_USER_ID"]
+    },
+    "database": {
+        "path": "data/mode_0.db"
+    },
+    "logging": {
+        "level": "INFO"
+    }
+}
